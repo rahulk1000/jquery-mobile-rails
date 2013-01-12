@@ -4,7 +4,7 @@ Rails App with jQuery Mobile
 Example Rails app using jQuery Mobile.
 
 ## Resources
-View the [https://github.com/RingRevenue/jquery-mobile-rails/wiki/Resources](Resources wiki page) for latest links
+View the [Resources wiki page](https://github.com/RingRevenue/jquery-mobile-rails/wiki/Resources) for latest links
 
 ## Setup
 
@@ -26,4 +26,5 @@ rake db:seed
 rails server
 ```
 
- * View the app in your browser: [http://localhost:3000/](localhost:3000)
+ * View the app in your browser: [localhost:3000](http://localhost:3000/)
+ 
