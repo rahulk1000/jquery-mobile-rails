@@ -6,6 +6,16 @@ Example Rails app using jQuery Mobile.
 ## Resources
 View the [Resources wiki page](https://github.com/RingRevenue/jquery-mobile-rails/wiki/Resources) for latest links
 
+## Prerequisites
+ * Ruby & Ruby Gems
+ * [bundler gem](http://gembundler.com/)
+```
+gem install bundler
+```
+
+ * If the bundle install step below fails you will need to have installed the source files acompanying your Ruby install.
+  * For example on a Mac you would need Xcode installed.
+
 ## Setup
 
  * Clone the repo
