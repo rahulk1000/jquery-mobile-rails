@@ -8,6 +8,7 @@ View the [Resources wiki page](https://github.com/RingRevenue/jquery-mobile-rail
 
 ## Prerequisites
  * Ruby & Ruby Gems
+   * Works in Ruby versions 1.8.7 and 1.9.3 
  * [bundler gem](http://gembundler.com/)
 ```
 gem install bundler
